@@ -6,6 +6,7 @@ public class TestingAllFunctionalities {
 
         System.out.println("Hello World");
         System.out.println("Hello Cydeo");
+        System.out.println("And so it begins");
 
     }
 
