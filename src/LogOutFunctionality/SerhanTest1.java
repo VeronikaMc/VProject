@@ -1,3 +1,5 @@
+package LogOutFunctionality;
+
 public class SerhanTest1 {
     public static void main(String[] args) {
 
